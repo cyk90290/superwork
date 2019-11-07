@@ -3,7 +3,7 @@
 
     import java.util.Arrays;
 
-    public class homework8 {
+    public class superhomework8 {
         public static void main(String[] args) {
             int number = 100;
             System.out.println("n=" + number + "");
