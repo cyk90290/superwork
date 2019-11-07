@@ -2,7 +2,7 @@ package com.example.lib;
 
 import java.util.Scanner;
 
-public class homework13 {
+public class superhomework13 {
     public static void main(String[] argv) {
         Scanner input = new Scanner(System.in);
         System.out.println(":");
