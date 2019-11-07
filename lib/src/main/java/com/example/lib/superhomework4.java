@@ -1,6 +1,6 @@
 package com.example.lib;
 
-public class homework4 {
+public class superhomework4 {
     public  static  void main(String[] avrg) {
         java.util.Scanner scanner= new
                 java.util.Scanner(System.in);
