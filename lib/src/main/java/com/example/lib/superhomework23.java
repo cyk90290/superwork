@@ -3,7 +3,7 @@ package com.example.lib;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class homework23 {
+public class superhomework23 {
     public static void main(String[] args) {
 
     FileReader fr = null;
