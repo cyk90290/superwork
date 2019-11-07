@@ -1,7 +1,7 @@
 package com.example.lib;
 
 import java.util.Scanner;
-    public class homework10 {
+    public class superhomework10 {
         public static void main(String[] args) {
             Scanner input = new Scanner(System.in);
             System.out.println("input:");
@@ -12,7 +12,7 @@ import java.util.Scanner;
             if(c>='A' && c<='Z'){
                 c+=32;
                 System.out.println("input"+(char)(c-32)+"change:"+c);
-            }else if(c>='a' && c<='z'){  //如果輸入的是小寫，-32即可得大小寫
+            }else if(c>='a' && c<='z'){ 
                 c-=32;
                 System.out.println("input"+(char)(c+32)+"change:"+c);
             }else{
