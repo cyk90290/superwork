@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class homework18 {
+public class superhomework18 {
     public static void main(String[] agv) throws IOException {
         int[] num = new int[10];
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
