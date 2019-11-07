@@ -1,7 +1,7 @@
 package com.example.lib;
 
 public class homework2 {
-        public  static  void main(String[] avrg) {
+        public  static  void main(String[] arvg) {
             java.util.Scanner scanner= new
                     java.util.Scanner(System.in);
 
