@@ -8,7 +8,6 @@ import java.util.Scanner;
             char c = input.next().charAt(0);
             change(c);
         }
-
         private static void change(char c) {
             if(c>='A' && c<='Z'){
                 c+=32;
