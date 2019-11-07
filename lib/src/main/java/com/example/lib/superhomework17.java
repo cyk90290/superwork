@@ -2,7 +2,7 @@ package com.example.lib;
 
 import java.util.Scanner;
 
-public class homework17 {
+public class superhomework17 {
     public static void main(String[] s) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("input 5 number");
