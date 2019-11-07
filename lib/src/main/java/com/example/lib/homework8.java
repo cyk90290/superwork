@@ -1,8 +1,8 @@
-package com.example.lib;
+ package com.example.lib;
 
 import java.util.Arrays;
 
-public class homework8 {
+    public class homework8 {
         public static void main(String[] args) {
             int number=100;
             System.out.println("n="+number+"");
@@ -46,3 +46,4 @@ public class homework8 {
         }
 
     }
+
