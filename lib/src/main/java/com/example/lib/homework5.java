@@ -25,7 +25,7 @@ public class homework5 {
          sec2=scanner.nextInt();
 
         int allsec1=(hu1*3600)+(min1*60)+sec1;
-        int allsec2=(hu2*3600)+(min2*600)+sec2;
+        int allsec2=(hu2*3600)+(min2*60)+sec2;
 
         System.out.println("Ans:"+Math.abs(allsec1-allsec2));
     }
