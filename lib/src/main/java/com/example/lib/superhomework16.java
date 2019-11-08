@@ -3,7 +3,11 @@ package com.example.lib;
 public class superhomework16 {
     public static void main(String agrs[])
     {
-        long number=1929;
+        int number;
+        java.util.Scanner scanner = new
+         java.util.Scanner(System.in);
+        number=scanner.nextInt;
+        System.out.println("n="+number);
         String num[]={"零","壹","貳","?","肆","伍","陸","柒","捌","玖"};
 
         String num1[]={"拾","佰","仟","萬","拾萬","百萬","仟萬","億","拾億","百億","仟億"},
